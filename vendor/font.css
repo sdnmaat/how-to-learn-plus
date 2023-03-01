@@ -1,0 +1,20 @@
+@font-face {
+  src: url(../__MACOSX/Inter/._Inter-Bold.woff2) format('woff2'),
+       url(../__MACOSX/Inter/._Inter-Bold.woff) format('woff');
+  font-family: 'Inter';
+  font-weight: bold;
+}
+
+@font-face {
+  src: url(../__MACOSX/Inter/._Inter-Regular.woff2) format('woff2'),
+       url(../__MACOSX/Inter/._Inter-Regular.woff) format('woff');
+  font-family: 'Inter';
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url(../__MACOSX/Inter/._Inter-SemiBold.woff2) format('woff2'),
+       url(../__MACOSX/Inter/._Inter-SemiBold.woff) format('woff');
+  font-weight: semi bold;
+}
