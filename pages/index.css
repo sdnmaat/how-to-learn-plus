@@ -1,6 +1,5 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/font.css);
-@import url(../blocks/centered-block/centered-block.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/logo/logo.css);
@@ -27,7 +26,6 @@
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
-@import url(../blocks/table/_width/table_width_l.css);
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
