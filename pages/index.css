@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
-@import url(../vendor/font.css);
+@import url(../fonts/font.css);
+@import url(../blocks/page/page.css);
 @import url(../blocks/description/description.css);
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/logo/logo.css);
@@ -12,7 +13,6 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/page/page.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_margin/section-subtitle_margin_top.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
