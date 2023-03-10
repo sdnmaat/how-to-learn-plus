@@ -1,7 +1,6 @@
 .two-columns {
     display: flex;
     justify-content: space-around;
-    min-height: 100px;
     width: 80%;
     margin: auto;
   }

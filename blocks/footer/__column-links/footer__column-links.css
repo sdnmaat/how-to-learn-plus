@@ -2,9 +2,5 @@
     margin-top: 20px;
     margin-bottom: 16px;
     list-style: none;
-	  margin-left: -35px;
-  }
-
-  .footer__column-links li {
-    margin-bottom: 10px;
+    padding: 0;
   }
